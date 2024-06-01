@@ -1,4 +1,3 @@
-﻿
 namespace SchoolMangementSystem
 {
     partial class MainForm
