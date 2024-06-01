@@ -1,4 +1,4 @@
-﻿namespace SchoolMangementSystem
+namespace SchoolMangementSystem
 {
     partial class Pacientes
     {
