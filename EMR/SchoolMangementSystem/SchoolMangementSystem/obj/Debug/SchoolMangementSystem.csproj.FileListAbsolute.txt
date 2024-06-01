@@ -1,0 +1,127 @@
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.resx
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.Designer.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentsForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+C:\Users\WINDOWS 10\source\repos\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.resx
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.cs
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.Designer.cs
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentsForm.resources
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+C:\Users\Fernan\Documents\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.resx
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.cs
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.Designer.cs
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentsForm.resources
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+C:\Users\rami2\Downloads\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.resx
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.Designer.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentsForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\School-Management-System-using-CSharp\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Pacientes.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.resx
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.resx
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.resx
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentForm.Designer.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddStudentsForm.Designer.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\AddTeachersForm.Designer.cs
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe.config
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.exe
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\bin\Debug\SchoolMangementSystem.pdb
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.AssemblyReference.cache
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddStudentsForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.AddTeachersForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.DashboardForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Form1.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.LoginForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.MainForm.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Pacientes.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.Properties.Resources.resources
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.GenerateResource.cache
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.exe
+C:\Users\dieg0\OneDrive\Escritorio\Proyecto Final\EMR\SchoolMangementSystem\SchoolMangementSystem\obj\Debug\SchoolMangementSystem.pdb
