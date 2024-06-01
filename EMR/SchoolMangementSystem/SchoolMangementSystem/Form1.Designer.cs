@@ -1,4 +1,4 @@
-﻿
+
 namespace SchoolMangementSystem
 {
     partial class Form1
@@ -114,4 +114,3 @@ namespace SchoolMangementSystem
         private System.Windows.Forms.Timer timer1;
     }
 }
-
